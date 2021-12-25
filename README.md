@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vyshnaviperumalla
-- 👀 I’m interested in automate applications
+- 👀 I’m interested to automate applications
 - 🌱 I’m currently learning API testing
-- 💞️ I’m looking to collaborate on Rest Assured
 - 📫 How to reach me vyshnavi.perumalla98@gmail.com
 
 <!---
